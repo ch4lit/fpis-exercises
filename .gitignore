@@ -10,5 +10,9 @@
 dist/*
 target/
 
-#ignore vim backup files
+doc/
+*.swp
+*~
+.DS_Store
+.secret
 *~
