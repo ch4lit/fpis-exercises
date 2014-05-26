@@ -1,0 +1,14 @@
+# Ide specific
+.project
+.classpath
+.settings
+.idea
+
+# general files to ignore
+*.class
+*.log
+dist/*
+target/
+
+#ignore vim backup files
+*~
